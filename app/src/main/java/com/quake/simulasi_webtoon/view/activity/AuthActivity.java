@@ -1,0 +1,68 @@
+package com.quake.simulasi_webtoon.view.activity;
+
+import android.support.v4.app.Fragment;
+import android.os.Bundle;
+import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuItem;
+
+import com.quake.simulasi_webtoon.R;
+import com.quake.simulasi_webtoon.view.fragment.FragmentLogin;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class AuthActivity extends ParentActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_auth);
+
+        Toolbar t_up = (Toolbar) findViewById(R.id.toolbar);
+        setSupportActionBar(t_up);
+        getSupportActionBar().setTitle("Authentication");
+
+        changefragment(new FragmentLogin());
+//        this.setTitle("authentication");
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        return super.onOptionsItemSelected(item);
+    }
+
+    public static boolean isemailvalid(String email) {
+        // String _expression = "^[\\w\\.-]+@([\\w\\-]+\\.)+[A-Z]{2,4}$";
+        String _expression = "^[a-z]([a-z0-9-\\.]+)?+@[a-z]+\\.[a-z]{2,4}+(\\.[a-z]{2,4})?$";
+        CharSequence _email = email;
+        Pattern _pattern = Pattern.compile(_expression, Pattern.CASE_INSENSITIVE);
+        Matcher _mathcer = _pattern.matcher(_email);
+
+        if (_mathcer.matches()) {
+            return true;
+        }
+        return false;
+    }
+
+    public static boolean ispasswordvalid(String password) {
+        String _expression = "^(?=.*[a-z])(?=.*[A-Z])(?=.*[\\d])(?=.*[@!\\*?$&\\^#-])[\\w@!\\*?$&\\^#-]{8,}$";
+        CharSequence _password = password;
+        Pattern _pattern = Pattern.compile(_expression, Pattern.CASE_INSENSITIVE);
+        Matcher _mathcer = _pattern.matcher(_password);
+
+        if (_mathcer.matches()) {
+            return true;
+        }
+        return false;
+    }
+
+    public void changefragment(Fragment fragment) {
+        getSupportFragmentManager().beginTransaction().replace(R.id.activity_auth, fragment).commit();
+    }
+}

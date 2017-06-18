@@ -1,0 +1,30 @@
+genre Fantasi
+
+Born Form Death
+
+Judul: http://swebtoon.phinf.naver.net/20170120_247/14849035522654efCT_JPEG/_EB9AA1EB80AF_E383A1EABCA6_E296A0EB84B0_EB97A1EB80B7__11.jpg?type=q70
+
+Cover Eps 1 = http://swebtoon.phinf.naver.net/20160209_139/14550082948463R4dF_JPEG/145500829482261511.jpg?type=q70
+Cover Eps 2 = http://swebtoon.phinf.naver.net/20160209_49/1455008374695lJpim_JPEG/145500837466861527.jpg?type=q70
+Cover Eps 3 = http://swebtoon.phinf.naver.net/20160209_108/1455008513389mcfcN_JPEG/145500851336661536.jpg?type=q70
+
+1_1	= http://swebtoon.phinf.naver.net/20160209_108/14550082835256PTgF_JPEG/145500828349661515.jpg?type=q70
+1_2	=http://swebtoon.phinf.naver.net/20160209_198/1455008283043G8w47_JPEG/145500828301661512.jpg?type=q70
+1_3	=http://swebtoon.phinf.naver.net/20160209_225/1455008283338JoEWu_JPEG/145500828331361511.jpg?type=q70
+1_4	=http://swebtoon.phinf.naver.net/20160209_75/1455008283351EgfQ7_JPEG/145500828332361510.jpg?type=q70
+1_5	=http://swebtoon.phinf.naver.net/20160209_72/1455008283179idlnt_JPEG/145500828315561510.jpg?type=q70
+
+2_1	=http://swebtoon.phinf.naver.net/20160209_212/1455008369759Qqo9g_JPEG/145500836972261520.jpg?type=q70
+2_2	=http://swebtoon.phinf.naver.net/20160209_269/1455008368545Vu4aN_JPEG/145500836852161522.jpg?type=q70
+2_3	=http://swebtoon.phinf.naver.net/20160209_6/1455008368688MD8EO_JPEG/145500836866461527.jpg?type=q70
+2_4	=http://swebtoon.phinf.naver.net/20160209_95/145500836885439YcI_JPEG/145500836882761527.jpg?type=q70
+2_5	=http://swebtoon.phinf.naver.net/20160209_80/1455008369159Uh38z_JPEG/145500836912761525.jpg?type=q70
+
+
+3_1	= http://swebtoon.phinf.naver.net/20160209_117/1455008504039xNsg1_JPEG/145500850401061539.jpg?type=q70
+3_2	=http://swebtoon.phinf.naver.net/20160209_189/14550085038690DDEj_JPEG/145500850384461531.jpg?type=q70
+3_3	=http://swebtoon.phinf.naver.net/20160209_77/1455008503946Y8U3X_JPEG/145500850392061536.jpg?type=q70
+3_4	=http://swebtoon.phinf.naver.net/20160209_77/1455008503946Y8U3X_JPEG/145500850392061536.jpg?type=q70
+3_5	=http://swebtoon.phinf.naver.net/20160209_189/1455008503875a1hlj_JPEG/145500850384861539.jpg?type=q70
+
+

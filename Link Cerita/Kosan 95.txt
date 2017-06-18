@@ -1,0 +1,30 @@
+genre Drama
+
+Kosan 95
+
+Judul:http://swebtoon.phinf.naver.net/20161031_210/1477878534884p7ABz_JPEG/Thumbnail_mobile.jpg?type=q70
+
+Cover Eps 1 = http://swebtoon.phinf.naver.net/20161102_96/1478060954599swbT5_JPEG/147806095457984014.jpg?type=q70
+Cover Eps 2 = http://swebtoon.phinf.naver.net/20161102_49/1478061050175YRCz1_JPEG/147806105014084025.jpg?type=q70
+Cover Eps 3 = http://swebtoon.phinf.naver.net/20161102_106/1478061266388NbuNq_JPEG/147806126636684036.jpg?type=q70
+
+1_1	= http://swebtoon.phinf.naver.net/20161102_47/14780609213527Jt8t_JPEG/147806092132484018.jpg?type=q70
+1_2	=http://swebtoon.phinf.naver.net/20161102_258/1478060921691oxDlq_JPEG/147806092166284016.jpg?type=q70
+1_3	=http://swebtoon.phinf.naver.net/20161102_149/14780609217134jszs_JPEG/147806092168884017.jpg?type=q70
+1_4	=http://swebtoon.phinf.naver.net/20161102_283/1478060921508J6sEa_JPEG/147806092147884011.jpg?type=q70
+1_5	=http://swebtoon.phinf.naver.net/20161102_45/14780609215699k5ot_JPEG/147806092154284016.jpg?type=q70
+
+2_1	=http://swebtoon.phinf.naver.net/20161102_143/147806102959004Hof_JPEG/147806102956584024.jpg?type=q70
+2_2	=http://swebtoon.phinf.naver.net/20161102_161/1478061029895bxE6B_JPEG/147806102986884025.jpg?type=q70
+2_3	=http://swebtoon.phinf.naver.net/20161102_179/147806103020258neA_JPEG/147806103017084023.jpg?type=q70
+2_4	=http://swebtoon.phinf.naver.net/20161102_74/14780610300767hR6U_JPEG/147806103004984026.jpg?type=q70
+2_5	=http://swebtoon.phinf.naver.net/20161102_74/14780610300767hR6U_JPEG/147806103004984026.jpg?type=q70
+
+
+3_1	=http://swebtoon.phinf.naver.net/20161102_50/1478061236198t4GRr_JPEG/147806123617584033.jpg?type=q70
+3_2	=http://swebtoon.phinf.naver.net/20161102_278/1478061236566CSdd0_JPEG/147806123653484037.jpg?type=q70
+3_3	=http://swebtoon.phinf.naver.net/20161102_200/1478061236636dUca7_JPEG/147806123660784036.jpg?type=q70
+3_4	=http://swebtoon.phinf.naver.net/20161102_15/1478061236648pqdOC_JPEG/147806123662084039.jpg?type=q70
+3_5	=http://swebtoon.phinf.naver.net/20161102_15/1478061236648pqdOC_JPEG/147806123662084039.jpg?type=q70
+
+

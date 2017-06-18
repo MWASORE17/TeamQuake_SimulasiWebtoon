@@ -1,0 +1,30 @@
+genre Drama
+
+Trickster
+
+Judul:http://swebtoon.phinf.naver.net/20161108_277/1478569259207wSFM3_PNG/thumb_mobile.png?type=q70
+
+Cover Eps 1 = http://swebtoon.phinf.naver.net/20161109_92/1478694045696BBosB_PNG/thumb_147869398969986618.png?type=q70
+Cover Eps 2 = http://swebtoon.phinf.naver.net/20161109_113/1478694319990vUUzE_PNG/thumb_147869418379686621.png?type=q70
+Cover Eps 3 = http://swebtoon.phinf.naver.net/20161109_219/14786945609475J8lK_PNG/thumb_147869448799486630.png?type=q70
+
+1_1	= http://swebtoon.phinf.naver.net/20161109_130/1478693988198Y9Ams_JPEG/147869398816986619.jpg?type=q70
+1_2	=http://swebtoon.phinf.naver.net/20161109_178/1478693987766lEIxn_JPEG/147869398774086612.jpg?type=q70
+1_3	=http://swebtoon.phinf.naver.net/20161109_128/1478693985406HsU30_JPEG/147869398538386611.jpg?type=q70
+1_4	=http://swebtoon.phinf.naver.net/20161109_237/14786939862160Xsng_JPEG/147869398619186617.jpg?type=q70
+1_5	=http://swebtoon.phinf.naver.net/20161109_173/1478693988192x8T8o_JPEG/147869398815686614.jpg?type=q70
+
+2_1	=http://swebtoon.phinf.naver.net/20161109_73/1478694170952Kij1u_JPEG/147869417092786620.jpg?type=q70
+2_2	=http://swebtoon.phinf.naver.net/20161109_207/1478694170557xahjg_JPEG/147869417053386629.jpg?type=q70
+2_3	=http://swebtoon.phinf.naver.net/20161109_267/1478694171222P8ODc_JPEG/147869417119686621.jpg?type=q70
+2_4	=http://swebtoon.phinf.naver.net/20161109_190/14786941701584YSx0_JPEG/147869417013986628.jpg?type=q70
+2_5	=http://swebtoon.phinf.naver.net/20161109_247/1478694170918v4OFU_JPEG/147869417089886628.jpg?type=q70
+
+
+3_1	= http://swebtoon.phinf.naver.net/20161109_136/1478694484702Y7Jdo_JPEG/147869448467286635.jpg?type=q70
+3_2	=http://swebtoon.phinf.naver.net/20161109_141/1478694484030gyjpH_JPEG/147869448399186630.jpg?type=q70
+3_3	=http://swebtoon.phinf.naver.net/20161109_107/1478694484206XYFgb_JPEG/147869448418286632.jpg?type=q70
+3_4	=http://swebtoon.phinf.naver.net/20161109_250/1478694483981tCOWT_JPEG/147869448395786639.jpg?type=q70
+3_5	=http://swebtoon.phinf.naver.net/20161109_161/1478694484192dPmMg_JPEG/147869448416386632.jpg?type=q70
+
+

@@ -1,0 +1,77 @@
+Category = Drama
+
+Loading screen untuk semua webtoon = 
+
+Judul komik = Ojek Story
+Nama File
+Cover = OjekStoryMainCover 
+	URL = https://dl.dropboxusercontent.com/s/12t96eweokqv4ai/OjekStoryMainCover.jpg?dl=0
+
+CoverEpisode= OjekStoryCoverEp*
+	1 = https://dl.dropboxusercontent.com/s/bhqcibcay27u388/OjekStoryCoverEp0.jpg?dl=0 
+	2 = https://dl.dropboxusercontent.com/s/dlgo4eb7uw9pq0f/OjekStoryCoverEp1.jpg?dl=0
+	3 = https://dl.dropboxusercontent.com/s/dtpcvqt1oaddfqh/OjekStoryCoverEp2.jpg?dl=0
+
+Episode = OjekStoryEp*_*
+0_1 = https://dl.dropboxusercontent.com/s/yms1i38igmahurc/OjekStoryEp0_1.jpg?dl=0
+0_2 = https://dl.dropboxusercontent.com/s/e5wu1oblvmckqig/OjekStoryEp0_2.jpg?dl=0
+0_3 = https://dl.dropboxusercontent.com/s/pu95pvoli4rx3mn/OjekStoryEp0_3.jpg?dl=0
+0_4 = https://dl.dropboxusercontent.com/s/87z9ck6un9dr1sn/OjekStoryEp0_4.jpg?dl=0
+0_5 = https://dl.dropboxusercontent.com/s/3pmnsbeewi5htzj/OjekStoryEp0_5.jpg?dl=0
+0_6 = https://dl.dropboxusercontent.com/s/tm9m7hya4iluphv/OjekStoryEp0_6.jpg?dl=0
+
+1_1=https://dl.dropboxusercontent.com/s/xfqaibixcb5p1h4/OjekStoryEp1_1.jpg?dl=0
+1_2=https://dl.dropboxusercontent.com/s/pff20dql35gzm5n/OjekStoryEp1_2.jpg?dl=0
+1_3=https://dl.dropboxusercontent.com/s/b4oqt9wq20l2goh/OjekStoryEp1_3.jpg?dl=0
+1_4=https://dl.dropboxusercontent.com/s/9w97m9w19y77x2w/OjekStoryEp1_4.jpg?dl=0
+1_5=https://dl.dropboxusercontent.com/s/fbh5t6l0c4cdori/OjekStoryEp1_5.jpg?dl=0
+1_6=https://dl.dropboxusercontent.com/s/gf55f6bkkxv91dy/OjekStoryEp1_6.jpg?dl=0
+1_7=https://dl.dropboxusercontent.com/s/ub2l1fjxi9rjtcs/OjekStoryEp1_7.jpg?dl=0
+1_8=https://dl.dropboxusercontent.com/s/t28mx93yvipsbwv/OjekStoryEp1_8.jpg?dl=0
+1_9=https://dl.dropboxusercontent.com/s/8ybibdy6sxrbtoz/OjekStoryEp1_9.jpg?dl=0
+1_10=https://dl.dropboxusercontent.com/s/ioecluxjdpusb0q/OjekStoryEp1_10.jpg?dl=0
+1_11=https://dl.dropboxusercontent.com/s/jsxjuqi76u518ia/OjekStoryEp1_11.jpg?dl=0
+1_12=https://dl.dropboxusercontent.com/s/08ucnryahlvoppw/OjekStoryEp1_12.jpg?dl=0
+1_13=https://dl.dropboxusercontent.com/s/yyia7idcwvpemvy/OjekStoryEp1_13.jpg?dl=0
+1_14=https://dl.dropboxusercontent.com/s/fhek2bypcae0elb/OjekStoryEp1_14.jpg?dl=0
+1_15=https://dl.dropboxusercontent.com/s/ptvmexhclletyo2/OjekStoryEp1_15.jpg?dl=0
+1_16=https://dl.dropboxusercontent.com/s/icp123wsyrfub4l/OjekStoryEp1_16.jpg?dl=0
+1_17=https://dl.dropboxusercontent.com/s/vbgpf9nzj9t78l7/OjekStoryEp1_17.jpg?dl=0
+1_18=https://dl.dropboxusercontent.com/s/ayp2b0caormhov6/OjekStoryEp1_18.jpg?dl=0
+1_19=https://dl.dropboxusercontent.com/s/ayxtqwe6h3zb7eh/OjekStoryEp1_19.jpg?dl=0
+1_20=https://dl.dropboxusercontent.com/s/kogbxrx46om5ga8/OjekStoryEp1_20.jpg?dl=0
+
+2_1=https://dl.dropboxusercontent.com/s/sfro4eibtw1dwiv/OjekStoryEp2_1.jpg?dl=0
+2_2=https://dl.dropboxusercontent.com/s/t65xmlj620mf07t/OjekStoryEp2_2.jpg?dl=0
+2_3=https://dl.dropboxusercontent.com/s/kvr9l8xql8a27qo/OjekStoryEp2_3.jpg?dl=0
+2_4=https://dl.dropboxusercontent.com/s/2e10lxd69ha7asq/OjekStoryEp2_4.jpg?dl=0
+2_5=https://dl.dropboxusercontent.com/s/s9a7w4j8n7pix76/OjekStoryEp2_5.jpg?dl=0
+2_6=https://dl.dropboxusercontent.com/s/aq2usffc6iv7c5x/OjekStoryEp2_6.jpg?dl=0
+2_7=https://dl.dropboxusercontent.com/s/okx81i6d0didb95/OjekStoryEp2_7.jpg?dl=0
+2_8=https://dl.dropboxusercontent.com/s/nuxc9bstge6pbe6/OjekStoryEp2_8.jpg?dl=0
+2_9=https://dl.dropboxusercontent.com/s/dizeft0nsu5ebhy/OjekStoryEp2_9.jpg?dl=0
+2_10=https://dl.dropboxusercontent.com/s/zdubplizac2zls2/OjekStoryEp2_10.jpg?dl=0
+2_11=https://dl.dropboxusercontent.com/s/zdubplizac2zls2/OjekStoryEp2_10.jpg?dl=0
+2_12=https://dl.dropboxusercontent.com/s/b1r1smltgclhsyu/OjekStoryEp2_12.jpg?dl=0
+2_13=https://dl.dropboxusercontent.com/s/skti0zcdhxpman7/OjekStoryEp2_13.jpg?dl=0
+2_14=https://dl.dropboxusercontent.com/s/jzps20q7rbje0mf/OjekStoryEp2_14.jpg?dl=0
+2_15=https://dl.dropboxusercontent.com/s/a3ypjkbe23r39ql/OjekStoryEp2_15.jpg?dl=0
+2_16=https://dl.dropboxusercontent.com/s/nlx0o3tywzp16db/OjekStoryEp2_16.jpg?dl=0
+2_17=https://dl.dropboxusercontent.com/s/bal2e0d0p0mmwg1/OjekStoryEp2_17.jpg?dl=0
+2_18=https://dl.dropboxusercontent.com/s/rfu6ksn1p708bej/OjekStoryEp2_18.jpg?dl=0
+2_19=https://dl.dropboxusercontent.com/s/brdv1raqpld8kay/OjekStoryEp2_19.jpg?dl=0	
+2_20=https://dl.dropboxusercontent.com/s/kpw6p0vw8ultj27/OjekStoryEp2_20.jpg?dl=0
+2_21=https://dl.dropboxusercontent.com/s/dmci8nawz73odqj/OjekStoryEp2_21.jpg?dl=0
+2_22=https://dl.dropboxusercontent.com/s/xlrk8ojqb5e7hou/OjekStoryEp2_22.jpg?dl=0
+2_23=https://dl.dropboxusercontent.com/s/gbalbr9ekzhabda/OjekStoryEp2_23.jpg?dl=0
+2_24=https://dl.dropboxusercontent.com/s/420nw9kj1z8m4qm/OjekStoryEp2_24.jpg?dl=0
+2_25=https://dl.dropboxusercontent.com/s/nky3g1q5o3qedjq/OjekStoryEp2_25.jpg?dl=0
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+<resources>
+    <!-- Baca Komik Activity -->
+    <string name="app_name">Simulasi-Webtoon</string>
+    <string name="title_viewers">Viewers</string>
+    <string name="title_comments">Comments</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="btm_nav_title_home">Home</string>
+    <string name="btm_nav_title_schedule">Schedule</string>
+    <string name="btm_nav_title_catg">Category</string>
+    <string name="btm_nav_title_search">Search</string>
+    <string name="btm_nav_title_opt">Account</string>
+
+    <!-- Login/Register Activity -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_register">Register</string>
+    <string name="hint_name">Name</string>
+
+
+</resources>

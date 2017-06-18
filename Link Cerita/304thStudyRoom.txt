@@ -1,0 +1,30 @@
+genre Drama
+
+304Th Study Room
+
+Judul:http://swebtoon.phinf.naver.net/20160212_211/1455264457655Qk42s_JPEG/thumb_mobile.jpg?type=q70
+
+Cover Eps 1 = http://swebtoon.phinf.naver.net/20160226_6/1456485573675jC1g1_JPEG/145648557365161710.jpg?type=q70
+Cover Eps 2 = http://swebtoon.phinf.naver.net/20160226_85/1456485807698U68pN_JPEG/145648580767561729.jpg?type=q70
+Cover Eps 3 = http://swebtoon.phinf.naver.net/20160226_12/1456485899629oBgw5_JPEG/145648589960061736.jpg?type=q70 
+
+1_1	= http://swebtoon.phinf.naver.net/20160226_55/1456494045059Mfuwt_JPEG/145649404502961712.jpg?type=q70
+1_2	=http://swebtoon.phinf.naver.net/20160226_277/1456485476327SD6Ju_JPEG/145648547629861719.jpg?type=q70
+1_3	=http://swebtoon.phinf.naver.net/20160226_172/1456485476855OtHMP_JPEG/145648547683061716.jpg?type=q70
+1_4	=http://swebtoon.phinf.naver.net/20160226_299/1456485476720DusTc_JPEG/145648547668661718.jpg?type=q70
+1_5	=http://swebtoon.phinf.naver.net/20160226_92/145648547693866LGa_JPEG/145648547690361714.jpg?type=q70
+
+2_1	=http://swebtoon.phinf.naver.net/20160226_254/1456494072943h574A_JPEG/145649407291361720.jpg?type=q70
+2_2	=http://swebtoon.phinf.naver.net/20160226_193/1456485739015iNkYM_JPEG/145648573896861722.jpg?type=q70
+2_3	=http://swebtoon.phinf.naver.net/20160226_104/14564857391012dSY2_JPEG/145648573906761724.jpg?type=q70
+2_4	=http://swebtoon.phinf.naver.net/20160226_150/1456485739458vAp2L_JPEG/145648573942561724.jpg?type=q70
+2_5	=http://swebtoon.phinf.naver.net/20160226_275/1456485739357fM0eV_JPEG/145648573933061724.jpg?type=q70
+
+
+3_1	=http://swebtoon.phinf.naver.net/20160226_176/14564940918226xymh_JPEG/145649409179061736.jpg?type=q70
+3_2	=http://swebtoon.phinf.naver.net/20160530_23/14645964391700P5Wm_JPEG/146459643914061738.jpg?type=q70
+3_3	=http://swebtoon.phinf.naver.net/20160509_270/1462761132756ntWpk_JPEG/146276113272861735.jpg?type=q70
+3_4	=http://swebtoon.phinf.naver.net/20160509_205/1462761196501yQvh6_JPEG/146276119646661730.jpg?type=q70
+3_5	=http://swebtoon.phinf.naver.net/20160509_204/14627611967387u4Lr_JPEG/146276119668161732.jpg?type=q70
+
+

@@ -1,0 +1,30 @@
+genre Drama
+
+7 Wonders
+
+Judul:http://swebtoon.phinf.naver.net/20170411_32/1491903295498vY0G9_JPEG/thusb_M.jpg?type=q70
+
+Cover Eps 1 = http://swebtoon.phinf.naver.net/20160626_114/1466951826461CAYte_JPEG/146695182643569914.jpg?type=q70
+Cover Eps 2 = http://swebtoon.phinf.naver.net/20160626_247/146695221461821I6y_JPEG/146695221459369926.jpg?type=q70
+Cover Eps 3 = http://swebtoon.phinf.naver.net/20160626_169/1466952495771clU4e_JPEG/146695249575269930.jpg?type=q70
+
+1_1	= http://swebtoon.phinf.naver.net/20160626_218/1466951842045GkqCg_JPEG/146695184201569918.jpg?type=q70
+1_2	=http://swebtoon.phinf.naver.net/20160626_299/14669518430514fmxW_JPEG/146695184301969916.jpg?type=q70
+1_3	=http://swebtoon.phinf.naver.net/20160626_45/1466951842853Q2YJU_JPEG/146695184282469912.jpg?type=q70
+1_4	=http://swebtoon.phinf.naver.net/20160626_249/1466951839691VgW1P_JPEG/146695183966369914.jpg?type=q70
+1_5	=http://swebtoon.phinf.naver.net/20160626_119/1466951841879gp5C8_JPEG/146695184185069911.jpg?type=q70
+
+2_1	=http://swebtoon.phinf.naver.net/20160626_31/1466952236926VFQQb_JPEG/146695223690369920.jpg?type=q70
+2_2	=http://swebtoon.phinf.naver.net/20160626_43/14669522381896liVK_JPEG/146695223815769924.jpg?type=q70
+2_3	=http://swebtoon.phinf.naver.net/20160626_265/1466952237603VUV2j_JPEG/146695223757669929.jpg?type=q70
+2_4	=http://swebtoon.phinf.naver.net/20160626_277/1466952238053bBbFS_JPEG/146695223802169926.jpg?type=q70
+2_5	=http://swebtoon.phinf.naver.net/20160626_134/1466952237570XJKtD_JPEG/146695223754469928.jpg?type=q70
+
+
+3_1	= http://swebtoon.phinf.naver.net/20160626_231/1466952450783zobvq_JPEG/146695245075369937.jpg?type=q70
+3_2	=http://swebtoon.phinf.naver.net/20160626_289/1466952453853X09Lb_JPEG/146695245382769930.jpg?type=q70
+3_3	=http://swebtoon.phinf.naver.net/20160626_113/1466952453234FMD4J_JPEG/146695245320369938.jpg?type=q70
+3_4	=http://swebtoon.phinf.naver.net/20160626_113/1466952453234FMD4J_JPEG/146695245320369938.jpg?type=q70
+3_5	=http://swebtoon.phinf.naver.net/20160626_178/1466952454366AwhnJ_JPEG/146695245433669932.jpg?type=q70
+
+

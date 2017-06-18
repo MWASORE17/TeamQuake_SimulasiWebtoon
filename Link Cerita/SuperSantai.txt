@@ -1,0 +1,49 @@
+Judul = SuperSantai
+Genre = Fantasi
+
+Judul = http://swebtoon.phinf.naver.net/20151123_73/1448258110465CdkOG_JPEG/thumbnail_mobile.jpg?type=q70
+Cover Eps 1 = https://dl.dropboxusercontent.com/s/zvcrnt1kgl0wkzh/supersantaicovereps1.jpg?dl=0
+Cover Eps 2 = https://dl.dropboxusercontent.com/s/sfvf00ho76a3xpb/supersantaicovereps2.jpg?dl=0
+Cover Eps 3 = https://dl.dropboxusercontent.com/s/yo5id9mkcl8sk0n/supersantaicovereps3.jpg?dl=0
+
+1_1	=https://dl.dropboxusercontent.com/s/e2s8ro5vzkam984/supersantaieps1_1.jpg?dl=0
+1_2	=https://dl.dropboxusercontent.com/s/7479e7is8sqztst/supersantaieps1_2.jpg?dl=0
+1_3	=https://dl.dropboxusercontent.com/s/dovcdbv4wtcgd0e/supersantaieps1_3.jpg?dl=0
+1_4	=https://dl.dropboxusercontent.com/s/psa1614kk05x8si/supersantaieps1_4.jpg?dl=0
+1_5	=https://dl.dropboxusercontent.com/s/vh9uvfuqiuo58p3/supersantaieps1_5.jpg?dl=0
+1_6	=https://dl.dropboxusercontent.com/s/vh9uvfuqiuo58p3/supersantaieps1_5.jpg?dl=0
+1_7	=https://dl.dropboxusercontent.com/s/8g26jbaebyzzz8c/supersantaieps1_7.jpg?dl=0
+1_8	=https://dl.dropboxusercontent.com/s/swjyc2lcs5hgl6g/supersantaieps1_8.jpg?dl=0
+1_9	=https://dl.dropboxusercontent.com/s/2gkm32rijl4bh6t/supersantaieps1_9.jpg?dl=0
+1_10	=https://dl.dropboxusercontent.com/s/tt76w0gndb12pgo/supersantaieps1_10.jpg?dl=0
+1_11	=https://dl.dropboxusercontent.com/s/t5zy84nmnwizapx/supersantaieps1_11.jpg?dl=0
+1_12	=https://dl.dropboxusercontent.com/s/bya5u77bdkpqfo7/supersantaieps1_12.jpg?dl=0
+
+2_1	=https://dl.dropboxusercontent.com/s/38bovc3vwh4mb16/supersantaieps2_1.jpg?dl=0
+2_2	=https://dl.dropboxusercontent.com/s/bmkkc079pvvpmgl/supersantaieps2_2.jpg?dl=0
+2_3	=https://dl.dropboxusercontent.com/s/kzeikh81qot3gnn/supersantaieps2_3.jpg?dl=0
+2_4	=https://dl.dropboxusercontent.com/s/zfh1s9g67evv8y0/supersantaieps2_4.jpg?dl=0
+2_5	=https://dl.dropboxusercontent.com/s/eoug0y0hwpa74og/supersantaieps2_5.jpg?dl=0
+2_6	=https://dl.dropboxusercontent.com/s/3p4nrfxq8rb0jtc/supersantaieps2_6.jpg?dl=0
+2_7	=https://dl.dropboxusercontent.com/s/1dgnjrh1ldkapn0/supersantaieps2_7.jpg?dl=0
+2_8	=https://dl.dropboxusercontent.com/s/janixwshvyo9iyr/supersantaieps2_8.jpg?dl=0
+2_9	=https://dl.dropboxusercontent.com/s/1ba5g6cnflno6yq/supersantaieps2_9.jpg?dl=0
+2_10	=https://dl.dropboxusercontent.com/s/s28x7qv9n9we19p/supersantaieps2_10.jpg?dl=0
+2_11	=https://dl.dropboxusercontent.com/s/1n1nc9ibprsqv6h/supersantaieps2_11.jpg?dl=0
+2_12	=https://dl.dropboxusercontent.com/s/dkwjcdygqfv6mns/supersantaieps2_12.jpg?dl=0
+2_13	=https://dl.dropboxusercontent.com/s/pow2y7riyx89p9k/supersantaieps2_13.jpg?dl=0
+2_14	=https://dl.dropboxusercontent.com/s/vsv3oayl3j6zb5u/supersantaieps2_14.jpg?dl=0
+2_15	=https://dl.dropboxusercontent.com/s/exv50rxhz4s80rb/supersantaieps2_15.jpg?dl=0
+
+3_1	=https://dl.dropboxusercontent.com/s/bildk6u1mslp0o3/supersantaieps3_1.jpg?dl=0
+3_2	=https://dl.dropboxusercontent.com/s/6k30yayguc8u77q/supersantaieps3_2.jpg?dl=0
+3_3	=https://dl.dropboxusercontent.com/s/9huip1dmygehb3c/supersantaieps3_3.jpg?dl=0
+3_4	=https://dl.dropboxusercontent.com/s/n003zw3xh21a6hg/supersantaieps3_4.jpg?dl=0
+3_5	=https://dl.dropboxusercontent.com/s/w8mc8ntjq2ud27e/supersantaieps3_5.jpg?dl=0
+3_6	=https://dl.dropboxusercontent.com/s/i8xu8fmrbc7o1jy/supersantaieps3_6.jpg?dl=0
+3_7	=https://dl.dropboxusercontent.com/s/2ewrkk1z6ozj7or/supersantaieps3_7.jpg?dl=0
+3_8	=https://dl.dropboxusercontent.com/s/6mhkl2yy3geig9l/supersantaieps3_8.jpg?dl=0
+3_9	=https://dl.dropboxusercontent.com/s/x7dms0hmhf6tm87/supersantaieps3_9.jpg?dl=0
+3_10	=https://dl.dropboxusercontent.com/s/8ytan0f8a4184gg/supersantaieps3_10.jpg?dl=0
+3_11	=https://dl.dropboxusercontent.com/s/c5ywk7s0t3a8spt/supersantaieps3_11.jpg?dl=0
+3_12	=https://dl.dropboxusercontent.com/s/q40lwfe5povjph3/supersantaieps3_12.jpg?dl=0

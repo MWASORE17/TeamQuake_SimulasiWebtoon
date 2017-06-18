@@ -1,0 +1,49 @@
+Judul Tahilalats
+Genre Komedi
+
+Judul = https://dl.dropboxusercontent.com/s/u13dh3ahubx1c1a/tahilalatsmaincover.jpg?dl=0
+Cover Eps 1 = https://dl.dropboxusercontent.com/s/i8w8e3bv79tga3t/tahilalatscovereps1.jpg?dl=0
+Cover Eps 2 = https://dl.dropboxusercontent.com/s/cvecfhkes9zzfbm/tahilalatscovereps2.jpg?dl=0
+Cover Eps 3 = https://dl.dropboxusercontent.com/s/9y77ifdcv8gmar6/tahilalatscovereps3.jpg?dl=0
+
+1_1	=https://dl.dropboxusercontent.com/s/ejdao8a99xyyab9/tahilalatseps1_1.jpg?dl=0
+1_2	=https://dl.dropboxusercontent.com/s/3o6gptaucrjpujd/tahilalatseps1_2.jpg?dl=0
+1_3	=https://dl.dropboxusercontent.com/s/le7g62avplio1go/tahilalatseps1_3.jpg?dl=0
+1_4	=https://dl.dropboxusercontent.com/s/a74o24o2vduuops/tahilalatseps1_4.jpg?dl=0
+1_5	=https://dl.dropboxusercontent.com/s/z2lzal0yjjxri5t/tahilalatseps1_5.jpg?dl=0
+1_6	=
+1_7	=
+1_8	=
+1_9	=
+1_10	=
+1_11	=
+1_12	=
+
+2_1	=https://dl.dropboxusercontent.com/s/zwfucqk0ekmkyxq/tahilalatseps2_1.jpg?dl=0
+2_2	=https://dl.dropboxusercontent.com/s/baqw6zip53rruq3/tahilalatseps2_2.jpg?dl=0
+2_3	=https://dl.dropboxusercontent.com/s/1g32nw0168481j4/tahilalatseps2_3.jpg?dl=0
+2_4	=https://dl.dropboxusercontent.com/s/mact7lsc9r305c2/tahilalatseps2_4.jpg?dl=0
+2_5	=https://dl.dropboxusercontent.com/s/1yk2xwf5fcmfwxd/tahilalatseps2_5.jpg?dl=0
+2_6	=
+2_7	=
+2_8	=
+2_9	=
+2_10	=
+2_11	=
+2_12	=
+2_13	=
+2_14	=
+2_15	=
+
+3_1	=https://dl.dropboxusercontent.com/s/9s3kaqrkq28ymo7/tahilalatseps3_1.jpg?dl=0
+3_2	=https://dl.dropboxusercontent.com/s/xsswg5r3i8i3vds/tahilalatseps3_2.jpg?dl=0
+3_3	=https://dl.dropboxusercontent.com/s/sqndi8hawr7auka/tahilalatseps3_3.jpg?dl=0
+3_4	=https://dl.dropboxusercontent.com/s/er42mqokhhnwaeb/tahilalatseps3_4.jpg?dl=0
+3_5	=https://dl.dropboxusercontent.com/s/jspygg1c6rlapv2/tahilalatseps3_5.jpg?dl=0
+3_6	=
+3_7	=
+3_8	=
+3_9	=
+3_10	=
+3_11	=
+3_12	=

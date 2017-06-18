@@ -1,0 +1,30 @@
+genre Fantasi
+
+Nusantara Droid War
+
+Judul: http://swebtoon.phinf.naver.net/20161229_17/14829754516785xeaE_JPEG/Thumb_mobile.jpg?type=q70
+
+Cover Eps 1 = http://swebtoon.phinf.naver.net/20151218_131/1450403448972oTQgp_JPEG/145040344894859619.jpg?type=q70
+Cover Eps 2 = http://swebtoon.phinf.naver.net/20151218_46/14504039943649b4ET_JPEG/145040399433759626.jpg?type=q70
+Cover Eps 3 = http://swebtoon.phinf.naver.net/20151218_10/1450404262904PMRS6_JPEG/145040426287659631.jpg?type=q70
+
+1_1	= http://swebtoon.phinf.naver.net/20151218_271/1450403318045bY3xW_JPEG/145040331801459618.jpg?type=q70
+1_2	=http://swebtoon.phinf.naver.net/20151218_294/1450403318317byLXj_JPEG/145040331828859612.jpg?type=q70
+1_3	=http://swebtoon.phinf.naver.net/20151218_214/14504033183026unhS_JPEG/145040331827159610.jpg?type=q70
+1_4	=http://swebtoon.phinf.naver.net/20151218_112/1450403318135bwlet_JPEG/145040331810159612.jpg?type=q70
+1_5	=http://swebtoon.phinf.naver.net/20151218_194/14504033186435ydwK_JPEG/145040331861159615.jpg?type=q70
+
+2_1	= http://swebtoon.phinf.naver.net/20151218_99/14504039022258Bmfm_JPEG/145040390218659629.jpg?type=q70
+2_2	=http://swebtoon.phinf.naver.net/20151218_150/1450403902718w3YRC_JPEG/145040390268259626.jpg?type=q70
+2_3	=http://swebtoon.phinf.naver.net/20151218_281/14504039025998YabD_JPEG/145040390256859629.jpg?type=q70
+2_4	=http://swebtoon.phinf.naver.net/20151218_124/14504039027263hHAo_JPEG/145040390268059626.jpg?type=q70
+2_5	=http://swebtoon.phinf.naver.net/20151218_16/1450403903032rszfI_JPEG/145040390299559629.jpg?type=q70
+
+
+3_1	= http://swebtoon.phinf.naver.net/20151218_29/1450404089093A0BRz_JPEG/145040408906059639.jpg?type=q70
+3_2	=http://swebtoon.phinf.naver.net/20151218_73/1450404089037XsckC_JPEG/145040408900459631.jpg?type=q70
+3_3	=http://swebtoon.phinf.naver.net/20151218_160/1450404089078OTzbt_JPEG/145040408904859635.jpg?type=q70
+3_4	=http://swebtoon.phinf.naver.net/20151218_250/14504040890200ySqD_JPEG/145040408898759631.jpg?type=q70
+3_5	=http://swebtoon.phinf.naver.net/20151218_249/1450404089034mPSlR_JPEG/145040408900059638.jpg?type=q70
+
+

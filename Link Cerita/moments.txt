@@ -1,0 +1,111 @@
+Genre Romance
+Judul Moments
+
+
+Judul = https://dl.dropboxusercontent.com/s/d092owbwzzahxza/momentsmaincover.jpg?dl=0
+Cover Eps 1 = https://dl.dropboxusercontent.com/s/f7c3dhw0hes5kqg/momentscovereps1.jpg?dl=0
+Cover Eps 2 = https://dl.dropboxusercontent.com/s/ed51iwytyz4w92c/momentscovereps2.jpg?dl=0
+Cover Eps 3 = https://dl.dropboxusercontent.com/s/rc3ycj4tcsr7pfu/momentscovereps3.jpg?dl=0
+
+1_1	= https://dl.dropboxusercontent.com/s/cbkxiuy1851jfcv/momentseps1_1.jpg?dl=0
+1_2	=https://dl.dropboxusercontent.com/s/9n62j1o37f7fn35/momentseps1_2.jpg?dl=0
+1_3	=https://dl.dropboxusercontent.com/s/z0uqv2flw5dmemb/momentseps1_3.jpg?dl=0
+1_4	=https://dl.dropboxusercontent.com/s/awv0x95mqxhq0ph/momentseps1_4.jpg?dl=0
+1_5	=https://dl.dropboxusercontent.com/s/yy13e0slibzv2sc/momentseps1_5.jpg?dl=0
+1_6	=https://dl.dropboxusercontent.com/s/dn1c442wsd2js8f/momentseps1_6.jpg?dl=0
+1_7	=https://dl.dropboxusercontent.com/s/6tyxtu4jx252wh9/momentseps1_7.jpg?dl=0
+1_8	=https://dl.dropboxusercontent.com/s/wxaq0b01r0cqt6w/momentseps1_8.jpg?dl=0
+1_9	=https://dl.dropboxusercontent.com/s/wcfnvlg3cai0vfd/momentseps1_9.jpg?dl=0
+1_10	=https://dl.dropboxusercontent.com/s/4a13ylrlpv8prl7/momentseps1_10.jpg?dl=0
+1_11	=https://dl.dropboxusercontent.com/s/zvu8usmskvpslew/momentseps1_11.jpg?dl=0
+1_12	=https://dl.dropboxusercontent.com/s/zvbibnr1cqel4nq/momentseps1_12.jpg?dl=0
+1_13 =https://dl.dropboxusercontent.com/s/3awg1u4c0g33aje/momentseps1_13.jpg?dl=0
+1_14 =https://dl.dropboxusercontent.com/s/ilfvrpdccfnesqv/momentseps1_14.jpg?dl=0
+1_15 =https://dl.dropboxusercontent.com/s/24t4qhbdb6sx1z6/momentseps1_15.jpg?dl=0
+1_16 =https://dl.dropboxusercontent.com/s/kbldrz669lp9bl2/momentseps1_16.jpg?dl=0
+1_17 =https://dl.dropboxusercontent.com/s/4lqhgjstgychbla/momentseps1_17.jpg?dl=0
+1_18 =https://dl.dropboxusercontent.com/s/hhpjy0ddbr0j5hc/momentseps1_18.jpg?dl=0
+
+2_1	=https://dl.dropboxusercontent.com/s/bdqtl5y8btjiz1o/momentseps2_1.jpg?dl=0
+2_2	=https://dl.dropboxusercontent.com/s/wz8vequix00ai9e/momentseps2_2.jpg?dl=0
+2_3	=https://dl.dropboxusercontent.com/s/mmmpjs8fbneftaa/momentseps2_3.jpg?dl=0
+2_4	=https://dl.dropboxusercontent.com/s/zsdxvdvruowd9lr/momentseps2_4.jpg?dl=0
+2_5	=https://dl.dropboxusercontent.com/s/xufwg8mc44dr6zk/momentseps2_5.jpg?dl=0
+2_6	=https://dl.dropboxusercontent.com/s/nu9w6u2j97z59gl/momentseps2_6.jpg?dl=0
+2_7	=https://dl.dropboxusercontent.com/s/2ke3x4tw1z1jqp6/momentseps2_7.jpg?dl=0
+2_8	=https://dl.dropboxusercontent.com/s/ik3j6uhu9cvtbwb/momentseps2_8.jpg?dl=0
+2_9	=https://dl.dropboxusercontent.com/s/jp4nphgvou43o39/momentseps2_9.jpg?dl=0
+2_10	=https://dl.dropboxusercontent.com/s/619l3pwi3153m0g/momentseps2_10.jpg?dl=0
+2_11	=https://dl.dropboxusercontent.com/s/29zr1zhhkoyuwy1/momentseps2_11_1.jpg?dl=0
+2_12	=https://dl.dropboxusercontent.com/s/7nszaycs19kqwj5/momentseps2_11_2.jpg?dl=0
+2_13	=https://dl.dropboxusercontent.com/s/gzlww4ix32tnlco/momentseps2_12.jpg?dl=0
+2_14	=https://dl.dropboxusercontent.com/s/aaqoaaco3npva86/momentseps2_13.jpg?dl=0
+2_15	=https://dl.dropboxusercontent.com/s/yhjbl06qdql5wlj/momentseps2_14.jpg?dl=0
+2_16 =https://dl.dropboxusercontent.com/s/7o2b17j1gskf1ml/momentseps2_15.jpg?dl=0
+2_17 =https://dl.dropboxusercontent.com/s/23crbw4x87nets8/momentseps2_16.jpg?dl=0
+2_18 =https://dl.dropboxusercontent.com/s/j0swuruag08y3df/momentseps2_17.jpg?dl=0
+2_19 =https://dl.dropboxusercontent.com/s/ifobem7iv89k6li/momentseps2_18.jpg?dl=0
+2_20=https://dl.dropboxusercontent.com/s/2axjms4a2950yld/momentseps2_19.jpg?dl=0
+2_21=https://dl.dropboxusercontent.com/s/vjtgshavctic2yc/momentseps2_20.jpg?dl=0
+2_22=https://dl.dropboxusercontent.com/s/j4p2r66l28j2y3x/momentseps2_21.jpg?dl=0
+2_23=https://dl.dropboxusercontent.com/s/u4zbruu16x1icvo/momentseps2_22.jpg?dl=0
+2_24=https://dl.dropboxusercontent.com/s/bo7bcd067agzgvj/momentseps2_23.jpg?dl=0
+2_25=https://dl.dropboxusercontent.com/s/w6nifoo32m3gygs/momentseps2_24.jpg?dl=0
+2_26=https://dl.dropboxusercontent.com/s/q74ylv6onboev7f/momentseps2_25.jpg?dl=0
+2_27=https://dl.dropboxusercontent.com/s/wrt1yfkozq0x26x/momentseps2_26.jpg?dl=0
+2_28=https://dl.dropboxusercontent.com/s/la3zaf3ueyfs45e/momentseps2_27.jpg?dl=0
+2_29=https://dl.dropboxusercontent.com/s/i39wg9u1o9ep4rq/momentseps2_28.jpg?dl=0
+2_30=https://dl.dropboxusercontent.com/s/dj5503ju31vx15g/momentseps2_29.jpg?dl=0
+2_31=https://dl.dropboxusercontent.com/s/3p907rhfbnammiu/momentseps2_30.jpg?dl=0
+2_32=https://dl.dropboxusercontent.com/s/xck1ezik6hg3za5/momentseps2_31.jpg?dl=0
+2_33=https://dl.dropboxusercontent.com/s/xuowlm18wis70io/momentseps2_32.jpg?dl=0
+2_34=https://dl.dropboxusercontent.com/s/lge3d1ino4hfhzz/momentseps2_33.jpg?dl=0
+2_35=https://dl.dropboxusercontent.com/s/z4eqc6llt23ympi/momentseps2_34.jpg?dl=0
+2_36=https://dl.dropboxusercontent.com/s/alls87tz8xtq8n0/momentseps2_35.jpg?dl=0
+2_37=https://dl.dropboxusercontent.com/s/9a1e4sj3iigwp8j/momentseps2_36.jpg?dl=0
+2_38=https://dl.dropboxusercontent.com/s/90b3hblh5sw9ou4/momentseps2_37.jpg?dl=0
+2_39=
+2_40=
+
+
+3_1	=https://dl.dropboxusercontent.com/s/212im3rhrgyxzbn/momentseps3_1.jpg?dl=0
+3_2	=https://dl.dropboxusercontent.com/s/c7ht7uhf2u5pqn4/momentseps3_2.jpg?dl=0
+3_3	=https://dl.dropboxusercontent.com/s/p9lv2e1kmjdr1kg/momentseps3_3.jpg?dl=0
+3_4	=https://dl.dropboxusercontent.com/s/gi95jotbtwowwdk/momentseps3_4.jpg?dl=0
+3_5	=https://dl.dropboxusercontent.com/s/dddv4sio307lp2s/momentseps3_5.jpg?dl=0
+3_6	=https://dl.dropboxusercontent.com/s/j2cts39uo18a27r/momentseps3_6.jpg?dl=0
+3_7	=https://dl.dropboxusercontent.com/s/l8eo94upia30lr0/momentseps3_7.jpg?dl=0
+3_8	=https://dl.dropboxusercontent.com/s/z9p1gdrs4hn3w1y/momentseps3_8.jpg?dl=0
+3_9	=https://dl.dropboxusercontent.com/s/fyui4ns9pdi1p8u/momentseps3_9.jpg?dl=0
+3_10	=https://dl.dropboxusercontent.com/s/03yjs9pkftdczcf/momentseps3_10.jpg?dl=0
+3_11	=https://dl.dropboxusercontent.com/s/69838904yuocbct/momentseps3_11.jpg?dl=0
+3_12	=https://dl.dropboxusercontent.com/s/xjto2v14l7poi5s/momentseps3_12.jpg?dl=0
+3_13 =https://dl.dropboxusercontent.com/s/zlkc8e145j9t9b4/momentseps3_13.jpg?dl=0
+3_14 =https://dl.dropboxusercontent.com/s/z33pnx938azf55e/momentseps3_14.jpg?dl=0
+3_15 =https://dl.dropboxusercontent.com/s/032uamdsj1m8c0k/momentseps3_15.jpg?dl=0
+3_16 =https://dl.dropboxusercontent.com/s/c3icj8rcid7jgk3/momentseps3_16.jpg?dl=0
+3_17 =https://dl.dropboxusercontent.com/s/7on98zqfhkv9vo2/momentseps3_17.jpg?dl=0
+3_18 =https://dl.dropboxusercontent.com/s/bkai97t6cwplbbb/momentseps3_18.jpg?dl=0
+3_19=https://dl.dropboxusercontent.com/s/nqdfta7eoq6bfh4/momentseps3_18_2.jpg?dl=0
+3_20=https://dl.dropboxusercontent.com/s/mur9v12dy9pr2i9/momentseps3_19.jpg?dl=0
+3_21=https://dl.dropboxusercontent.com/s/haz75xg7r3a2fg3/momentseps3_20.jpg?dl=0
+3_22=https://dl.dropboxusercontent.com/s/jepshm37fhq3846/momentseps3_21.jpg?dl=0
+3_23=https://dl.dropboxusercontent.com/s/dfkk3kg3qv1esth/momentseps3_22.jpg?dl=0
+3_24=https://dl.dropboxusercontent.com/s/hsr66qdl7pres8i/momentseps3_23.jpg?dl=0
+3_25=https://dl.dropboxusercontent.com/s/hvqmtmlqzgvdvjg/momentseps3_24.jpg?dl=0
+3_26=https://dl.dropboxusercontent.com/s/26rssqusuao0v18/momentseps3_25.jpg?dl=0
+3_27=https://dl.dropboxusercontent.com/s/rn1yjd55n04sa7v/momentseps3_26.jpg?dl=0
+3_28=https://dl.dropboxusercontent.com/s/2s41y6a6zmh8701/momentseps3_27.jpg?dl=0
+3_29=https://dl.dropboxusercontent.com/s/uxnoctmtthmnka1/momentseps3_28.jpg?dl=0
+3_30=https://dl.dropboxusercontent.com/s/qlkjvn7beipx4gp/momentseps3_29.jpg?dl=0
+3_31=https://dl.dropboxusercontent.com/s/8v2zac0ilru3lb0/momentseps3_30.jpg?dl=0
+3_32=https://dl.dropboxusercontent.com/s/o83kapksv7863ut/momentseps3_31.jpg?dl=0
+3_33=https://dl.dropboxusercontent.com/s/104833ggkbeu245/momentseps3_32.jpg?dl=0
+3_34=https://dl.dropboxusercontent.com/s/q04371ju2w5fdvr/momentseps3_33.jpg?dl=0
+3_35=https://dl.dropboxusercontent.com/s/ysu16l5rau72sff/momentseps3_34.jpg?dl=0
+3_36=https://dl.dropboxusercontent.com/s/va64yj2ogfygzv6/momentseps3_35.jpg?dl=0
+3_37=https://dl.dropboxusercontent.com/s/wwhlv232xcfoa6u/momentseps3_36.jpg?dl=0
+3_38=https://dl.dropboxusercontent.com/s/po7rsiktabn8u70/momentseps3_37.jpg?dl=0
+3_39=https://dl.dropboxusercontent.com/s/5ntm4tasd34nf7i/momentseps3_38.jpg?dl=0
+3_40=
+
